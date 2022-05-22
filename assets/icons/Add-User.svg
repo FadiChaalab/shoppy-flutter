@@ -1,0 +1,18 @@
+<svg id="Iconly_Light-Outline_Add_User" data-name="Iconly/Light-Outline/Add User" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_2" data-name="Clip 2" d="M0,0H15.754V7.339H0Z" transform="translate(0 0.661)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Add_User" data-name="Add User" transform="translate(2 2)">
+    <g id="Group_3" data-name="Group 3" transform="translate(0 11.795)">
+      <path id="Clip_2-2" data-name="Clip 2" d="M0,0H15.754V7.339H0Z" transform="translate(0 0.661)" fill="none"/>
+      <g id="Group_3-2" data-name="Group 3" clip-path="url(#clip-path)">
+        <path id="Fill_1" data-name="Fill 1" d="M7.877,7.339C5.929,7.339,0,7.339,0,3.659,0,.379,4.5,0,7.877,0c1.948,0,7.877,0,7.877,3.681C15.754,6.959,11.258,7.339,7.877,7.339Zm0-5.838C3.646,1.5,1.5,2.227,1.5,3.659s2.145,2.18,6.377,2.18,6.377-.726,6.377-2.158S12.109,1.5,7.877,1.5Z" transform="translate(0 0.661)"/>
+      </g>
+    </g>
+    <path id="Fill_4" data-name="Fill 4" d="M5.317,10.636H5.286a5.334,5.334,0,1,1,.032,0Zm0-9.136A3.822,3.822,0,0,0,1.5,5.318,3.8,3.8,0,0,0,5.289,9.136l.028.75v-.75a3.818,3.818,0,0,0,0-7.636Z" transform="translate(2.56 0)"/>
+    <path id="Fill_6" data-name="Fill 6" d="M.75,5.511A.75.75,0,0,1,0,4.761V.75a.75.75,0,0,1,1.5,0V4.761a.75.75,0,0,1-.75.75" transform="translate(16.454 5.919)"/>
+    <path id="Fill_8" data-name="Fill 8" d="M4.84,1.5H.75A.75.75,0,0,1,.75,0H4.84a.75.75,0,0,1,0,1.5" transform="translate(14.41 7.924)"/>
+  </g>
+</svg>

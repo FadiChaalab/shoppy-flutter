@@ -1,0 +1,7 @@
+<svg id="Iconly_Light-Outline_Close_Square" data-name="Iconly/Light-Outline/Close Square" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Close_Square" data-name="Close Square" transform="translate(2 2)">
+    <path id="Fill_1" data-name="Fill 1" d="M.75,6.292a.75.75,0,0,1-.53-1.28L5.012.22a.75.75,0,0,1,1.06,1.06L1.28,6.072a.744.744,0,0,1-.53.22" transform="translate(6.853 6.845)"/>
+    <path id="Fill_3" data-name="Fill 3" d="M5.546,6.3a.744.744,0,0,1-.53-.22L.22,1.28A.75.75,0,0,1,1.28.22l4.8,4.8a.75.75,0,0,1-.53,1.28" transform="translate(6.851 6.843)"/>
+    <path id="Fill_5" data-name="Fill 5" d="M14.333,20H5.665C2.276,20,0,17.622,0,14.084V5.916C0,2.377,2.276,0,5.665,0h8.67C17.723,0,20,2.377,20,5.916v8.168C20,17.622,17.723,20,14.333,20ZM5.665,1.5C3.135,1.5,1.5,3.233,1.5,5.916v8.168c0,2.683,1.635,4.416,4.164,4.416h8.669c2.531,0,4.167-1.734,4.167-4.416V5.916c0-2.682-1.635-4.415-4.166-4.415Z"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg id="Iconly_Light-Outline_Paper" data-name="Iconly/Light-Outline/Paper" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_2" data-name="Clip 2" d="M0,0H17.053V19.854H0Z" transform="translate(0 0.147)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Paper" transform="translate(3 1)">
+    <g id="Group_3" data-name="Group 3" transform="translate(0 0.865)">
+      <path id="Clip_2-2" data-name="Clip 2" d="M0,0H17.053V19.854H0Z" transform="translate(0 0.147)" fill="none"/>
+      <g id="Group_3-2" data-name="Group 3" clip-path="url(#clip-path)">
+        <path id="Fill_1" data-name="Fill 1" d="M4.585,19.854h-.11A4.585,4.585,0,0,1,0,15.176V4.479A4.607,4.607,0,0,1,4.571,0h6.667a.755.755,0,0,1,.541.23l5.065,5.277a.753.753,0,0,1,.209.519v9.166A4.615,4.615,0,0,1,12.6,19.853ZM4.573,1.5A3.089,3.089,0,0,0,1.5,4.5V15.192A3.091,3.091,0,0,0,4.51,18.354h8.064A3.109,3.109,0,0,0,15.553,15.2V6.328L10.918,1.5H4.573Z" transform="translate(0 0.147)"/>
+      </g>
+    </g>
+    <path id="Fill_4" data-name="Fill 4" d="M6.073,6.984H3.318A3.332,3.332,0,0,1,0,3.659V.75a.75.75,0,0,1,1.5,0V3.659A1.828,1.828,0,0,0,3.32,5.484H6.073a.75.75,0,0,1,0,1.5" transform="translate(10.226 1)"/>
+    <path id="Fill_6" data-name="Fill 6" d="M6.15,1.5H.75A.75.75,0,0,1,.75,0h5.4a.75.75,0,0,1,0,1.5" transform="translate(4.639 13.608)"/>
+    <path id="Fill_8" data-name="Fill 8" d="M4.106,1.5H.75A.75.75,0,0,1,.75,0H4.106a.75.75,0,0,1,0,1.5" transform="translate(4.638 9.856)"/>
+  </g>
+</svg>

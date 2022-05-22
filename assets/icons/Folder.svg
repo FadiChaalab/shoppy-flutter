@@ -1,0 +1,16 @@
+<svg id="Iconly_Light-Outline_Folder" data-name="Iconly/Light-Outline/Folder" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_2" data-name="Clip 2" d="M0,0H20.7V20.669H0Z" transform="translate(0 0.331)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Folder" transform="translate(2 1)">
+    <g id="Group_3" data-name="Group 3" transform="translate(0 0.669)">
+      <path id="Clip_2-2" data-name="Clip 2" d="M0,0H20.7V20.669H0Z" transform="translate(0 0.331)" fill="none"/>
+      <g id="Group_3-2" data-name="Group 3" clip-path="url(#clip-path)">
+        <path id="Fill_1" data-name="Fill 1" d="M14.232,20.669H6.45C2.472,20.669,0,18.2,0,14.232v-7.8C0,2.164,1.9,0,5.643,0h2a3.047,3.047,0,0,1,2.426,1.214l.911,1.212a1.549,1.549,0,0,0,1.228.614h2.83C18.9,3.04,20.7,5.019,20.7,9.268l-.028,4.967C20.668,18.2,18.2,20.669,14.232,20.669ZM5.643,1.5C2.739,1.5,1.5,2.976,1.5,6.433v7.8c0,3.184,1.758,4.937,4.95,4.937h7.781c3.184,0,4.937-1.753,4.937-4.937L19.2,9.264c0-3.4-1.167-4.724-4.161-4.724h-2.83A3.052,3.052,0,0,1,9.781,3.328L8.868,2.114A1.538,1.538,0,0,0,7.642,1.5Z" transform="translate(0 0.331)"/>
+      </g>
+    </g>
+    <path id="Fill_4" data-name="Fill 4" d="M9.485,1.5H.75A.75.75,0,0,1,.75,0H9.485a.75.75,0,1,1,0,1.5" transform="translate(5.231 13.213)"/>
+  </g>
+</svg>

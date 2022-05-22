@@ -1,0 +1,532 @@
+{
+    "greeting": "Hi",
+    "@greeting": {
+        "description": "Greeting user"
+    },
+    "search": "find something...",
+    "@search": {
+        "description": "search bar"
+    },
+    "category": "Categories",
+    "@category": {
+        "description": "category title"
+    },
+    "more": "See All",
+    "@more": {
+        "description": "show more books"
+    },
+    "all": "All",
+    "@all": {
+        "description": "all category"
+    },
+    "man": "Man's",
+    "@man": {
+        "description": "man category"
+    },
+    "woman": "Woman's",
+    "@woman": {
+        "description": "woman category"
+    },
+    "kid": "Kid's",
+    "@kid": {
+        "description": "kid category"
+    },
+    "discover": "Discover",
+    "@discover": {
+        "description": "discover category"
+    },
+    "bookmarks": "Bookmarks",
+    "@bookmarks": {
+        "description": "bookmarks category"
+    },
+    "cart": "Cart",
+    "@cart": {
+        "description": "cart category"
+    },
+    "defaultFilter": "Default",
+    "@default": {
+        "description": "default filter"
+    },
+    "prix": "Price",
+    "@prix": {
+        "description": "prix filter"
+    },
+    "rating": "Rating",
+    "@rating": {
+        "description": "rating filter"
+    },
+    "overview": "Product Info",
+    "@overview": {
+        "description": "overview title"
+    },
+    "order": "Order products",
+    "@order": {
+        "description": "free type"
+    },
+    "buy": "order now",
+    "@buy": {
+        "description": "buy type"
+    },
+    "popular": "Popular Products",
+    "@popular": {
+        "description": "popular type"
+    },
+    "banner": "New items with free\nshipping",
+    "@banner": {
+        "description": "banner title"
+    },
+    "seeOurProducts": "See our products",
+    "@seeOurProducts": {
+        "description": "seeOurProducts button"
+    },
+    "buyButton": "Add to cart",
+    "@buyButton": {
+        "description": "buy button"
+    },
+    "offline": "Oops you are offline",
+    "@offline": {
+        "description": "offline snackbar"
+    },
+    "allCategories": "All Categories",
+    "@allCategories": {
+        "description": "all categories"
+    },
+    "cancel": "Cancel",
+    "@cancel": {
+        "description": "cancel button"
+    },
+    "flash": "Flash sales",
+    "@flash": {
+        "description": "flash title"
+    },
+    "home": "Home",
+    "@home": {
+        "description": "home drawer"
+    },
+    "favorites": "Your saved products",
+    "@favorites": {
+        "description": "favorites drawer"
+    },
+    "sellers": "Best sellers",
+    "@sellers": {
+        "description": "publish drawer"
+    },
+    "books": "Books",
+    "@books": {
+        "description": "books drawer"
+    },
+    "settings": "Settings",
+    "@settings": {
+        "description": "settings drawer"
+    },
+    "logout": "Logout",
+    "@logout": {
+        "description": "logout drawer"
+    },
+    "productDetailsTitle": "Product Details",
+    "@productDetailsTitle": {
+        "description": "productDetails title"
+    },
+    "productShippingTitle": "Product Shipping",
+    "@productShippingTitle": {
+        "description": "productShipping title"
+    },
+    "returnsTitle": "Returns",
+    "@returnsTitle": {
+        "description": "returns title"
+    },
+    "reviewsTitle": "Reviews",
+    "@reviewsTitle": {
+        "description": "reviews title"
+    },
+    "starsTitle": "stars",
+    "@starsTitle": {
+        "description": "stars title"
+    },
+    "basedOnTitle": "Based on",
+    "@basedOnTitle": {
+        "description": "basedOn title"
+    },
+    "colorTitle": "Select color",
+    "@colorTitle": {
+        "description": "color title"
+    },
+    "sizeTitle": "Select size",
+    "@sizeTitle": {
+        "description": "size title"
+    },
+    "guideTitle": "Size guide",
+    "@guideTitle": {
+        "description": "guide title"
+    },
+    "pickupTitle": "Store pickup availibility",
+    "@pickupTitle": {
+        "description": "pickup title"
+    },
+    "pickupSubtitle": "Select a size to check store pickup availability\nStore pickup options",
+    "@pickupSubtitle": {
+        "description": "guide title"
+    },
+    "checkTitle": "Check stores",
+    "@checkTitle": {
+        "description": "check title"
+    },
+    "addReviewTitle": "Add a review",
+    "@addReviewTitle": {
+        "description": "addReviewTitle title"
+    },
+    "usersReviewsTitle": "Users reviews",
+    "@usersReviewsTitle": {
+        "description": "check title"
+    },
+    "ratingTitle": "your overall rating of this product",
+    "@ratingTitle": {
+        "description": "check title"
+    },
+    "account": "Account",
+    "@account": {
+        "description": "account title"
+    },
+    "personal": "General",
+    "@personal": {
+        "description": "personal subtitle"
+    },
+    "languages": "Languages",
+    "@languages": {
+        "description": "languages title"
+    },
+    "theme": "Theme",
+    "@theme": {
+        "description": "theme title"
+    },
+    "info": "More Info",
+    "@info": {
+        "description": "info title"
+    },
+    "setreviewTitle": "Set title for your review",
+    "@setreviewTitle": {
+        "description": "setreview title"
+    },
+    "characterLeft": "Characters left",
+    "@characterLeft": {
+        "description": "publish Description"
+    },
+    "setDescriptionTitle": "What did you like or dislike?",
+    "@setDescriptionTitle": {
+        "description": "publish Description"
+    },
+    "recommendTitle": "Would you recommend\nthis product?",
+    "@recommendTitle": {
+        "description": "publish Description"
+    },
+    "submitReview": "submit review",
+    "@submitReview": {
+        "description": "publish Description"
+    },
+    "hintTitle": "Summarize your review",
+    "@hintTitle": {
+        "description": "hint title"
+    },
+    "hintDescriptionReview": "What should shoppers know before?",
+    "@hintDescriptionReview": {
+        "description": "hint DescriptionReview"
+    },
+    "hintDescription": "Enter book description",
+    "@hintDescription": {
+        "description": "hint Description"
+    },
+    "hintPrix": "Enter book price",
+    "@hintPrix": {
+        "description": "hint Prix"
+    },
+    "publishButton": "publish now",
+    "@publishButton": {
+        "description": "publish button"
+    },
+    "uploade": "Upload Image",
+    "@uploade": {
+        "description": "uploade zone"
+    },
+    "profile": "Profile",
+    "@profile": {
+        "description": "profile title"
+    },
+    "hintLast": "Enter your last name",
+    "@hintLast": {
+        "description": "hint Last"
+    },
+    "hintFirst": "Enter your first name",
+    "@hintFirst": {
+        "description": "hint First"
+    },
+    "hintAddrese": "Enter your addrese",
+    "@hintAddrese": {
+        "description": "hint addrese"
+    },
+    "hintAge": "Enter your age",
+    "@hintAge": {
+        "description": "hint Age"
+    },
+    "hintPhone": "Enter your phone",
+    "@hintPhone": {
+        "description": "hint Phone"
+    },
+    "updateButton": "update",
+    "@updateButton": {
+        "description": "update button"
+    },
+    "firstTitle": "First Name",
+    "@firstTitle": {
+        "description": "first title"
+    },
+    "lastTitle": "Last Name",
+    "@lastTitle": {
+        "description": "last title"
+    },
+    "addreseTitle": "Addrese",
+    "@addreseTitle": {
+        "description": "addrese title"
+    },
+    "ageTitle": "Age",
+    "@ageTitle": {
+        "description": "age title"
+    },
+    "phoneTitle": "Phone",
+    "@phoneTitle": {
+        "description": "phone title"
+    },
+    "deleteCaption": "Delete",
+    "@deleteCaption": {
+        "description": "delete caption"
+    },
+    "modifyCaption": "Modify",
+    "@modifyCaption": {
+        "description": "modify caption"
+    },
+    "deleteAlert": "Are you sure that you want to delete this book?",
+    "@deleteAlert": {
+        "description": "delete Alert"
+    },
+    "bookTitle": "Book Title",
+    "@bookTitle": {
+        "description": "book title"
+    },
+    "bookAuther": "Book Author",
+    "@bookAuther": {
+        "description": "book Auther"
+    },
+    "bookDescription": "Book Description",
+    "@bookDescription": {
+        "description": "book Description"
+    },
+    "bookCategory": "Book Category",
+    "@bookCategory": {
+        "description": "book Category"
+    },
+    "bookType": "Book Type",
+    "@bookType": {
+        "description": "book Type"
+    },
+    "bookPrix": "Book Price",
+    "@bookPrix": {
+        "description": "book Prix"
+    },
+    "updateBook": "Update Book",
+    "@updateBook": {
+        "description": "update book"
+    },
+    "updateBookTitle": "Update Your Book",
+    "@updateBookTitle": {
+        "description": "update your book"
+    },
+    "updatePrixAlert": "Consider changing the type first!",
+    "@updatePrixAlert": {
+        "description": "update Prix Alert"
+    },
+    "changeLanguage": "Change Language",
+    "@changeLanguage": {
+        "description": "Change Language msg"
+    },
+    "englishLanguage": "English",
+    "@englishLanguage": {
+        "description": "English msg"
+    },
+    "frenchLanguage": "French",
+    "@frenchLanguage": {
+        "description": "french Language msg"
+    },
+    "libraryTitle": "Library",
+    "@libraryTitle": {
+        "description": "Library title"
+    },
+    "signin": "Sign In",
+    "@signin": {
+        "description": "Sign In"
+    },
+    "signup": "Sign Up",
+    "@signup": {
+        "description": "Sign Up"
+    },
+    "welcome": "Welcome Back",
+    "@welcome": {
+        "description": "Welcome Back"
+    },
+    "signinmethod": "Sign in with your email and password",
+    "@signinmethod": {
+        "description": "Sign in with your email and password"
+    },
+    "continueButton": "Continue",
+    "@continue": {
+        "description": "Continue"
+    },
+    "forget": "Forgot Password?",
+    "@forget": {
+        "description": "Forgot Password?"
+    },
+    "enterpassword": "Enter your password",
+    "@enterpassword": {
+        "description": "enterpassword"
+    },
+    "enteremail": "Enter your email",
+    "@enteremail": {
+        "description": "enteremail"
+    },
+    "register": "Register Account",
+    "@register": {
+        "description": "register"
+    },
+    "details": "Complete your details",
+    "@details": {
+        "description": "details"
+    },
+    "terms":
+              "By continuing your confirm that you agree \nwith our Terms and Conditions",
+    "@terms": {
+        "description": "terms"
+    },
+    "renterpwd": "Re-Enter your password",
+    "@renterpwd": {
+        "description": "renterpwd"
+    },
+    "forgetpwd": "Forgot Password",
+    "@forgetpwd": {
+        "description": "forgetpwd"
+    },
+    "link":
+              "Please enter your email and we will send \nyou a link to return to your account",
+    "@link": {
+        "description": "link"
+    },
+    "completeprf": "Complete Profile",
+    "@completeprf": {
+        "description": "completeprf"
+    },
+    "noAccount": "Don't have an account? ",
+    "@noAccount": {
+        "description": "noAccount"
+    },
+    "deleteBook": "The book was deleted!",
+    "@deleteBook": {
+        "description": "deleteBook"
+    },
+    "feedBack": "Thanks for giving your feedback",
+    "@feedBack": {
+        "description": "feedBack"
+    },
+    "emailnull": "Please enter your email",
+    "@emailnull": {
+        "description": "emailnull"
+    },
+    "invalidemail": "Please enter valid email",
+    "@invalidemail": {
+        "description": "invalidemail"
+    },
+    "pwdnull": "Please enter your password",
+    "@pwdnull": {
+        "description": "pwdnull"
+    },
+    "pwdshort": "Password is too short",
+    "@pwdshort": {
+        "description": "pwdshort"
+    },
+    "nomatch": "Passwords doesn't match",
+    "@nomatch": {
+        "description": "nomatch"
+    },
+    "firstnull": "Please enter your first name",
+    "@firstnull": {
+        "description": "firstnull"
+    },
+    "lastnull": "Please enter your last name",
+    "@lastnull": {
+        "description": "lastnull"
+    },
+    "fullnamenull": "Please enter your full name",
+    "@fullnamenull": {
+        "description": "fullnamenull"
+    },
+    "numbernull": "Please enter your phone number",
+    "@numbernull": {
+        "description": "numbernull"
+    },
+    "agenull": "Please enter your age",
+    "@agenull": {
+        "description": "agenull"
+    },
+    "phoneerror": "Please enter 8 numbers",
+    "@phoneerror": {
+        "description": "phoneerror"
+    },
+    "longerror": "Please enter a maximum of 14 characters",
+    "@longerror": {
+        "description": "longerror"
+    },
+    "addreselongerror": "Please enter a maximum of 40 characters",
+    "@addreselongerror": {
+        "description": "addreselongerror"
+    },
+    "ageerror": "Please enter age between 7 and 80",
+    "@ageerror": {
+        "description": "ageerror"
+    },
+    "addresenull": "Please enter your addrese",
+    "@addresenull": {
+        "description": "addresenull"
+    },
+    "shorterror": "Please enter 3 characters minimum",
+    "@shorterror": {
+        "description": "shorterror"
+    },
+    "longdeserror": "Please enter a maximum of 240 characters",
+    "@longdeserror": {
+        "description": "longdeserror"
+    },
+    "nullTitle": "Please enter book title",
+    "@nullTitle": {
+        "description": "null title"
+    },
+    "nullAuther": "Please enter book author",
+    "@nullAuther": {
+        "description": "null Auther"
+    },
+    "nullDescription": "Please enter book description",
+    "@nullDescription": {
+        "description": "null Description"
+    },
+    "nullPrix": "Please enter book price",
+    "@nullPrix": {
+        "description": "null Prix"
+    },
+    "invalidPrix": "Please enter a valid price",
+    "@invalidPrix": {
+        "description": "invalid Prix"
+    },
+    "phonenull": "Please enter your phone",
+    "@phonenull": {
+        "description": "phone null"
+    },
+    "invalidAge": "Please enter a valid age",
+    "@invalidAge": {
+        "description": "invalid Age"
+    }
+}

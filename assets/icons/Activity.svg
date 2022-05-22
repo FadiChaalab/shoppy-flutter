@@ -1,0 +1,25 @@
+<svg id="Iconly_Light-Outline_Activity" data-name="Iconly/Light-Outline/Activity" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_4" data-name="Clip 4" d="M0,0H5.344V5.345H0Z" transform="translate(0.295 0.297)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Clip_7" data-name="Clip 7" d="M0,0H19.862V19.861H0Z" transform="translate(0 0.139)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Activity" transform="translate(2 1)">
+    <path id="Fill_1" data-name="Fill 1" d="M.75,6.489A.749.749,0,0,1,.156,5.282l2.993-3.89a.75.75,0,0,1,.5-.287.737.737,0,0,1,.557.155l2.82,2.215L9.494.292a.75.75,0,1,1,1.186.918L7.75,4.99a.75.75,0,0,1-1.056.131L3.876,2.907,1.345,6.2a.749.749,0,0,1-.595.293" transform="translate(4.467 8.513)"/>
+    <g id="Group_5" data-name="Group 5" transform="translate(15 0.703)">
+      <path id="Clip_4-2" data-name="Clip 4" d="M0,0H5.344V5.345H0Z" transform="translate(0.295 0.297)" fill="none"/>
+      <g id="Group_5-2" data-name="Group 5" clip-path="url(#clip-path)">
+        <path id="Fill_3" data-name="Fill 3" d="M2.672,5.345A2.673,2.673,0,1,1,5.344,2.672,2.676,2.676,0,0,1,2.672,5.345Zm0-3.845A1.172,1.172,0,1,0,3.844,2.672,1.173,1.173,0,0,0,2.672,1.5Z" transform="translate(0.295 0.297)"/>
+      </g>
+    </g>
+    <g id="Group_8" data-name="Group 8" transform="translate(0 1.703)">
+      <path id="Clip_7-2" data-name="Clip 7" d="M0,0H19.862V19.861H0Z" transform="translate(0 0.139)" fill="none"/>
+      <g id="Group_8-2" data-name="Group 8" clip-path="url(#clip-path-2)">
+        <path id="Fill_6" data-name="Fill 6" d="M14.233,19.861h-8.6C2.262,19.861,0,17.5,0,13.976V5.894C0,2.369,2.262,0,5.629,0H12.9a.75.75,0,0,1,0,1.5H5.629C3.121,1.5,1.5,3.224,1.5,5.894v8.082c0,2.7,1.582,4.385,4.129,4.385h8.6c2.508,0,4.129-1.721,4.129-4.385V6.937a.75.75,0,0,1,1.5,0v7.039c0,3.52-2.262,5.885-5.629,5.885" transform="translate(0 0.139)"/>
+      </g>
+    </g>
+  </g>
+</svg>

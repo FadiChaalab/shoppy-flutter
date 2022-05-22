@@ -1,0 +1,16 @@
+<svg id="Iconly_Light-Outline_Shield_Done" data-name="Iconly/Light-Outline/Shield Done" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_2" data-name="Clip 2" d="M0,0H16.967V20.356H0Z" transform="translate(0 0.644)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Shield_Done" data-name="Shield Done" transform="translate(4 1)">
+    <g id="Group_3" data-name="Group 3" transform="translate(0 0.356)">
+      <path id="Clip_2-2" data-name="Clip 2" d="M0,0H16.967V20.356H0Z" transform="translate(0 0.644)" fill="none"/>
+      <g id="Group_3-2" data-name="Group 3" clip-path="url(#clip-path)">
+        <path id="Fill_1" data-name="Fill 1" d="M8.483,20.356a.718.718,0,0,1-.217-.032c-.335-.1-8.205-2.55-8.205-9.445C.061,9,.037,7.621.019,6.616V6.557c-.046-2.544-.055-3.074.6-3.73C1.4,2.04,7.349,0,8.483,0s7.077,2.04,7.865,2.828c.656.656.646,1.184.6,3.722v.062c-.018,1.006-.042,2.383-.042,4.267,0,6.895-7.87,9.344-8.205,9.445A.718.718,0,0,1,8.483,20.356Zm0-18.856A31.024,31.024,0,0,0,1.669,3.9c-.183.184-.189.5-.15,2.63v.065c.018,1.011.042,2.395.042,4.286,0,5.218,5.765,7.525,6.921,7.934,1.155-.411,6.923-2.728,6.923-7.934,0-1.959.027-3.4.044-4.353.038-2.127.031-2.446-.162-2.637A30.978,30.978,0,0,0,8.483,1.5Z" transform="translate(0 0.644)"/>
+      </g>
+    </g>
+    <path id="Fill_4" data-name="Fill 4" d="M2.642,5.4h0a.751.751,0,0,1-.531-.22L.219,3.286A.751.751,0,0,1,1.281,2.225L2.642,3.588,6.01.22A.75.75,0,0,1,7.07,1.281l-3.9,3.9a.747.747,0,0,1-.53.22" transform="translate(5.135 8.12)"/>
+  </g>
+</svg>

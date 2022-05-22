@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19.499" height="19.499" viewBox="0 0 19.499 19.499">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_2" data-name="Clip 2" d="M0,0H19.5V19.5H0Z" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Send" transform="translate(0 0)">
+    <path id="Clip_2-2" data-name="Clip 2" d="M0,0H19.5V19.5H0Z" transform="translate(0 0)" fill="none"/>
+    <g id="Send-2" data-name="Send" clip-path="url(#clip-path)">
+      <path id="Fill_1" data-name="Fill 1" d="M12.9,19.5a2,2,0,0,1-1.71-.962L7.308,12.246.952,8.272a2.029,2.029,0,0,1,.5-3.665L16.911.082a2.021,2.021,0,0,1,2.5,2.522L14.842,18.048a2,2,0,0,1-1.67,1.433A2.19,2.19,0,0,1,12.9,19.5Zm.688-14.326a.75.75,0,0,1,.533,1.277L8.8,11.818l3.658,5.933A.491.491,0,0,0,12.9,18a.562.562,0,0,0,.074,0,.5.5,0,0,0,.432-.371L17.977,2.177a.526.526,0,0,0-.5-.678.548.548,0,0,0-.149.021L1.876,6.046a.513.513,0,0,0-.371.433A.518.518,0,0,0,1.747,7l6,3.753L13.05,5.4A.744.744,0,0,1,13.583,5.173Z" transform="translate(0 0)"/>
+    </g>
+  </g>
+</svg>

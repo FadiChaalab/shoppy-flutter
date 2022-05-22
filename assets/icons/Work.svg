@@ -1,0 +1,26 @@
+<svg id="Iconly_Light-Outline_Work" data-name="Iconly/Light-Outline/Work" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_4" data-name="Clip 4" d="M0,0H19.99V10.311H0Z" transform="translate(0 0.84)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Clip_7" data-name="Clip 7" d="M0,0H8.5V4.076H0Z" transform="translate(0.745 0.26)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Work" transform="translate(2 1)">
+    <path id="Fill_1" data-name="Fill 1" d="M.75,4.037A.75.75,0,0,1,0,3.287V.75a.75.75,0,0,1,1.5,0V3.287a.75.75,0,0,1-.75.75" transform="translate(9.245 12.39)"/>
+    <g id="Group_5" data-name="Group 5" transform="translate(0 2.74)">
+      <path id="Clip_4-2" data-name="Clip 4" d="M0,0H19.99V10.311H0Z" transform="translate(0 0.84)" fill="none"/>
+      <g id="Group_5-2" data-name="Group 5" clip-path="url(#clip-path)">
+        <path id="Fill_3" data-name="Fill 3" d="M9.99,10.311A19.3,19.3,0,0,1,.371,7.9.749.749,0,0,1,0,7.25V3.8A3.81,3.81,0,0,1,3.81,0H16.19a3.81,3.81,0,0,1,3.8,3.811V7.25a.75.75,0,0,1-.371.646A19.316,19.316,0,0,1,9.99,10.311ZM3.81,1.5A2.308,2.308,0,0,0,1.5,3.8V6.813a18.082,18.082,0,0,0,8.49,2,18.108,18.108,0,0,0,8.5-2v-3a2.308,2.308,0,0,0-2.3-2.31Z" transform="translate(0 0.84)"/>
+      </g>
+    </g>
+    <g id="Group_8" data-name="Group 8" transform="translate(5 0.74)">
+      <path id="Clip_7-2" data-name="Clip 7" d="M0,0H8.5V4.076H0Z" transform="translate(0.745 0.26)" fill="none"/>
+      <g id="Group_8-2" data-name="Group 8" clip-path="url(#clip-path-2)">
+        <path id="Fill_6" data-name="Fill 6" d="M7.75,4.076A.75.75,0,0,1,7,3.326V2.96A1.462,1.462,0,0,0,5.54,1.5H2.96A1.462,1.462,0,0,0,1.5,2.96v.366a.75.75,0,1,1-1.5,0V2.96A2.964,2.964,0,0,1,2.96,0H5.54A2.964,2.964,0,0,1,8.5,2.96v.366a.75.75,0,0,1-.75.75" transform="translate(0.745 0.26)"/>
+      </g>
+    </g>
+    <path id="Fill_9" data-name="Fill 9" d="M15.771,7.006H4.171A4.008,4.008,0,0,1,.192,3.315L0,.806A.751.751,0,0,1,.694,0,.761.761,0,0,1,1.5.693L1.688,3.2A2.5,2.5,0,0,0,4.171,5.506h11.6A2.5,2.5,0,0,0,18.254,3.2l.19-2.508A.766.766,0,0,1,19.249,0a.75.75,0,0,1,.691.8l-.19,2.509a4.008,4.008,0,0,1-3.979,3.691" transform="translate(0.024 13.735)"/>
+  </g>
+</svg>
